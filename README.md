@@ -2,6 +2,8 @@
 
 モダンなReact + TypeScript + Viteで構築されたタスク管理アプリケーションです。
 
+![alt text](<スクリーンショット 2025-06-02 112204.png>)
+
 ## ✨ 特徴
 
 - ✅ タスクの追加、編集、削除
@@ -14,10 +16,10 @@
 
 ## 🛠️ 技術スタック
 
-- **フロントエンド**: React 18
+- **フロントエンド**: React
 - **言語**: TypeScript
 - **ビルドツール**: Vite
-- **スタイリング**: CSS Modules
+- **スタイリング**: CSS
 - **データ永続化**: Local Storage
 - **開発ツール**: ESLint, Hot Module Replacement (HMR)
 
@@ -96,7 +98,3 @@ src/
 - **TypeScript**: 型安全性とコード品質の向上
 - **Vite**: 高速な開発サーバーとビルド
 - **ESLint**: コード品質の維持
-
-## 📝 ライセンス
-
-MIT License
