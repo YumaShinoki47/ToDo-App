@@ -2,7 +2,7 @@
 
 モダンなReact + TypeScript + Viteで構築されたタスク管理アプリケーションです。
 
-![alt text](<スクリーンショット 2025-06-02 112204.png>)
+![ToDoアプリのスクリーンショット](C:\Users\push0\Develop\Todo-app\docs\スクリーンショット 2025-06-02 112204.png)
 
 ## ✨ 特徴
 
